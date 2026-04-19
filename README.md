@@ -69,8 +69,28 @@ int main() {
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 Live Projects
+
+### 🛍️ Furaha Shop — Kitenge Fashion E-Commerce
+> A vibrant African print clothing store built with React and deployed on Vercel
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kitenge-fashion.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mkbantu)
+
+**Features:**
+- 🛒 Shopping cart with WhatsApp checkout
+- 🔍 Product search and category filtering
+- 💰 Multi-currency support
+- 📱 Fully responsive design
+- 🎨 Authentic African Kitenge fashion products
+
+**Tech Used:** `React` `HTML` `CSS` `JavaScript` `Vercel`
 
 ---
 
@@ -105,14 +125,14 @@ int main() {
 
 ### 🌐 Full Stack Web Path
 ```
-✅ React — Built first web app
+✅ React — Built & deployed Furaha Shop 🛍️
 ✅ Vue.js — Started
+✅ Vercel — Already deploying live!
 🔄 Tailwind CSS
 🔲 Node.js + Express
 🔲 REST APIs
 🔲 Authentication (JWT)
 🔲 MongoDB / MySQL
-🔲 Deploy on Vercel
 🎯 Freelance & Full Stack Jobs
 ```
 
@@ -134,10 +154,10 @@ int main() {
 ## 🎯 Current Focus
 
 - 🔧 Mastering **C++ Pointers & Memory Management**
-- ⚛️ Building projects with **React**
+- ⚛️ Building more projects with **React**
 - 🌐 Learning **Node.js** for backend
 - 🤖 Exploring **Arduino & Embedded Systems**
-- 💼 Building a strong **project portfolio**
+- 💼 Growing **Furaha Shop** project
 - 🚀 Working toward **Zipline Rwanda** & **Freelancing**
 
 ---
@@ -153,6 +173,7 @@ int main() {
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mukundabantu2023)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250793201162)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mkbantu)
+[![Portfolio](https://img.shields.io/badge/🛍️_Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kitenge-fashion.vercel.app/)
 
 </div>
 
