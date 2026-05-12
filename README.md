@@ -82,12 +82,6 @@ int main() {
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kitenge-fashion.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mkbantu)
-### My Portifolio
-> Computer Engineering Student | IoT & Full-Stack Developer
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mukundabantumohammed.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mkbantu)
-
 **Features:**
 - 🛒 Shopping cart with WhatsApp checkout
 - 🔍 Product search and category filtering
@@ -95,7 +89,14 @@ int main() {
 - 📱 Fully responsive design
 - 🎨 Authentic African Kitenge fashion products
 
-**Tech Used:** `React` `HTML` `CSS` `JavaScript` `Vercel`
+**Tech Used:** `React` `HTML` `CSS` `JavaScript` `Vercel
+### My Portifolio
+> Computer Engineering Student | IoT & Full-Stack Developer
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mukundabantumohammed.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mkbantu/Portifolio)
+
+**Tech Used:** `React` `HTML` `CSS` `JavaScript` `Vercel
 
 ---
 
