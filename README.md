@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Mukundabantu%20Mohammed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Full%20Stack&descAlignY=56&descSize=17"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%8C%90;Embedded+Systems+Enthusiast+%F0%9F%94%A7;Computer+Engineering+Student+%F0%9F%8E%93;Building+the+Future+from+Rwanda+%F0%9F%87%B7%F0%9F%87%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%8C%90;Python+%2B+Django+Developer+%F0%9F%90%8D;Embedded+Systems+Enthusiast+%F0%9F%94%A7;Computer+Engineering+Student+%F0%9F%8E%93;Building+the+Future+from+Rwanda+%F0%9F%87%B7%F0%9F%87%BC)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mkbantu&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile views" />
@@ -30,11 +30,11 @@ public:
     string goal     = "Embedded Systems + Full Stack Web Development";
 
     string currentlyLearning() {
-        return "C++ Advanced | React | Node.js | Arduino";
+        return "C++ Advanced | React | Django | Arduino";
     }
 
     string askMeAbout() {
-        return "C++, React, Full Stack Web, Embedded Systems";
+        return "C++, Python, Django, React, Full Stack Web, Embedded Systems";
     }
 
     string funFact() {
@@ -65,7 +65,9 @@ int main() {
 ### 🌐 Full Stack Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -237,7 +239,7 @@ int main() {
 | | |
 |---|---|
 | 🔭 **Building** | **Furaha Shop v2** — multi-currency checkout, inventory, and WhatsApp order flow |
-| 🌱 **Learning** | C++ pointers & memory management · Node.js + Express · Tailwind CSS |
+| 🌱 **Learning** | C++ pointers & memory management · Django + Python · Tailwind CSS |
 | 🤖 **Exploring** | Arduino and embedded systems |
 | 🧪 **Tinkering** | Small React experiments in [`Learn_react`](https://github.com/mkbantu/Learn_react) |
 | 💼 **Open to** | Internships, freelance web work, and open-source collaboration |
@@ -267,13 +269,13 @@ int main() {
 ### 🌐 Full Stack Web Path
 ```
 ✅ React — Built & deployed Furaha Shop 🛍️
-✅ Vue.js — Started
-✅ Vercel — Already deploying live!
+✅ Bootstrap — Responsive UI components
+✅ Python — Fundamentals covered
+🔄 Django — Building backends  ← Currently Here
 🔄 Tailwind CSS
-🔲 Node.js + Express
-🔲 REST APIs
-🔲 Authentication (JWT)
-🔲 MongoDB / MySQL
+🔲 Django REST Framework — APIs
+🔲 Authentication (JWT / sessions)
+🔲 PostgreSQL / MySQL
 🎯 Freelance & Full Stack Jobs
 ```
 
