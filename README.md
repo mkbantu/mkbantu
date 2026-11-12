@@ -220,15 +220,17 @@ int main() {
 
 ---
 
-## ✍️ Latest Articles
+## 🔨 Recent Activity
 
-<!-- BLOG-POST-LIST:START -->
-> 🚧 First article is on the way — follow me on [dev.to/mkbantu](https://dev.to/mkbantu) to catch it.
-<!-- BLOG-POST-LIST:END -->
+> Auto-refreshed daily from my public GitHub work.
 
-<p>
-<a href="https://dev.to/mkbantu"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
-</p>
+<!-- ACTIVITY:START -->
+- **[`C--__course`](https://github.com/mkbantu/C--__course)** — C++ · studying template · Nov 12, 2026
+- **[`video-montage`](https://github.com/mkbantu/video-montage)** — Python · A Python + FFmpeg tool that reads a folder of videos, cuts · Nov 12, 2026
+- **[`computer-Engineering-university-of-Rwanda-Notes`](https://github.com/mkbantu/computer-Engineering-university-of-Rwanda-Notes)** — Rich Text Format · new notes · Nov 12, 2026
+- **[`C--_Game`](https://github.com/mkbantu/C--_Game)** — C++ · it was already done · Oct 26, 2026
+- **[`tic_tac_toe-game-`](https://github.com/mkbantu/tic_tac_toe-game-)** — C++ · other files wwere for visual studio · Oct 26, 2026
+<!-- ACTIVITY:END -->
 
 ---
 
@@ -326,7 +328,6 @@ int main() {
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mukundabantu2023)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250793201162)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mkbantu)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mkbantu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mukundabantumohammed.vercel.app/)
 
 </div>
