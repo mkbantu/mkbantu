@@ -225,11 +225,11 @@ int main() {
 > Auto-refreshed daily from my public GitHub work.
 
 <!-- ACTIVITY:START -->
+- **[`Django-study`](https://github.com/mkbantu/Django-study)** — HTML · start with form and authentication · Nov 19, 2026
 - **[`C--__course`](https://github.com/mkbantu/C--__course)** — C++ · studying template · Nov 12, 2026
 - **[`video-montage`](https://github.com/mkbantu/video-montage)** — Python · A Python + FFmpeg tool that reads a folder of videos, cuts · Nov 12, 2026
 - **[`computer-Engineering-university-of-Rwanda-Notes`](https://github.com/mkbantu/computer-Engineering-university-of-Rwanda-Notes)** — Rich Text Format · new notes · Nov 12, 2026
 - **[`C--_Game`](https://github.com/mkbantu/C--_Game)** — C++ · it was already done · Oct 26, 2026
-- **[`tic_tac_toe-game-`](https://github.com/mkbantu/tic_tac_toe-game-)** — C++ · other files wwere for visual studio · Oct 26, 2026
 <!-- ACTIVITY:END -->
 
 ---
