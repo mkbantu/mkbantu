@@ -225,7 +225,7 @@ int main() {
 > Auto-refreshed daily from my public GitHub work.
 
 <!-- ACTIVITY:START -->
-- **[`C--_Game`](https://github.com/mkbantu/C--_Game)** — C++ · Merge remote-tracking branch 'origin/main' · Nov 26, 2026
+- **[`C--_Game`](https://github.com/mkbantu/C--_Game)** — C++ · Finish antivirus with cleanup summary · Nov 27, 2026
 - **[`Django-study`](https://github.com/mkbantu/Django-study)** — HTML · start with form and authentication · Nov 19, 2026
 - **[`C--__course`](https://github.com/mkbantu/C--__course)** — C++ · studying template · Nov 12, 2026
 - **[`video-montage`](https://github.com/mkbantu/video-montage)** — Python · A Python + FFmpeg tool that reads a folder of videos, cuts · Nov 12, 2026
